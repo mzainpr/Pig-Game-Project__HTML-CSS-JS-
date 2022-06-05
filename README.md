@@ -1,0 +1,7 @@
+- Pig Game
+- A fun game that can be played by two players
+- Reset a New game functionlity
+- Rolling a random dice and score the value to the current score
+- Store the score to the score field
+- Whoever reaches 100 score wins the game and he has to reset to start another game
+- Switching players if they get 1 on the dice or by clicking hold button
